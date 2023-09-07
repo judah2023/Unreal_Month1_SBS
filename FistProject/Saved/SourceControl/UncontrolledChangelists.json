@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Administrator/Desktop/NGH/SBS_Unreal/Unreal_Month1_SBS/FistProject/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/Administrator/Desktop/NGH/SBS_Unreal/Unreal_Month1_SBS/FistProject/Content/StarterContent/Props/Materials/M_Chair.uasset",
+				"C:/Users/Administrator/Desktop/NGH/SBS_Unreal/Unreal_Month1_SBS/FistProject/Content/StarterContent/Props/Materials/M_TableRound.uasset",
+				"C:/Users/Administrator/Desktop/NGH/SBS_Unreal/Unreal_Month1_SBS/FistProject/Content/MyAssets/Maps/Level1.umap",
+				"C:/Users/Administrator/Desktop/NGH/SBS_Unreal/Unreal_Month1_SBS/FistProject/Content/MyAssets/Maps/Level0.umap"
+			]
+		}
+	]
+}
