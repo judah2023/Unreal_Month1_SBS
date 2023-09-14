@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Administrator/Desktop/NGH/Test/Content/MyAssets/Maps/Level0.umap",
+				"C:/Users/Administrator/Desktop/NGH/Test/Content/MyAssets/Blueprints/BP_GameMode.uasset",
+				"C:/Users/Administrator/Desktop/NGH/Test/Content/MyAssets/Blueprints/BP_Player.uasset"
+			]
+		}
+	]
+}
