@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/GameDeveloper/Unreal Projects/Unreal_Month1_SBS/Test/Content/MyAssets/Animations/ABP_Player.uasset",
+				"E:/GameDeveloper/Unreal Projects/Unreal_Month1_SBS/Test/Content/MyAssets/Maps/Level0.umap",
+				"E:/GameDeveloper/Unreal Projects/Unreal_Month1_SBS/Test/Content/MyAssets/Blueprints/BP_Player.uasset",
+				"E:/GameDeveloper/Unreal Projects/Unreal_Month1_SBS/Test/Content/MyAssets/Animations/AM_Attack.uasset",
+				"E:/GameDeveloper/Unreal Projects/Unreal_Month1_SBS/Test/Content/ParagonGreystone/Characters/Heroes/Greystone/Meshes/Greystone_Skeleton.uasset",
 				"C:/Users/Administrator/Desktop/NGH/SBS_Unreal/Unreal_Month1_SBS/Test/Content/MyAssets/Blueprints/BP_Player.uasset",
 				"C:/Users/Administrator/Desktop/NGH/SBS_Unreal/Unreal_Month1_SBS/Test/Content/MyAssets/Blueprints/BP_PlayerController.uasset",
 				"C:/Users/Administrator/Desktop/NGH/SBS_Unreal/Unreal_Month1_SBS/Test/Content/MyAssets/Animations/ABP_Player.uasset",
@@ -13,8 +18,6 @@
 				"C:/Users/Administrator/Desktop/NGH/SBS_Unreal/Unreal_Month1_SBS/Test/Content/MyAssets/Animations/AM_PlayerAttack.uasset",
 				"C:/Users/Administrator/Desktop/NGH/SBS_Unreal/Unreal_Month1_SBS/Test/Content/MyAssets/Animations/AM_Attack.uasset",
 				"C:/Users/Administrator/Desktop/NGH/SBS_Unreal/Unreal_Month1_SBS/Test/Content/ParagonGreystone/Characters/Heroes/Greystone/Meshes/Greystone_Skeleton.uasset",
-				"E:/GameDeveloper/Unreal Projects/Unreal_Month1_SBS/Test/Content/MyAssets/Animations/ABP_Player.uasset",
-				"E:/GameDeveloper/Unreal Projects/Unreal_Month1_SBS/Test/Content/MyAssets/Maps/Level0.umap",
 				"C:/Users/Administrator/Desktop/NGH/Test/Content/MyAssets/Maps/Level0.umap",
 				"C:/Users/Administrator/Desktop/NGH/Test/Content/MyAssets/Blueprints/BP_GameMode.uasset",
 				"C:/Users/Administrator/Desktop/NGH/Test/Content/MyAssets/Blueprints/BP_Player.uasset"
