@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Administrator/Desktop/NGH/SBS_Unreal/Unreal_Month1_SBS/Project4/Content/0MyFiles/Blueprints/BP_Player.uasset",
+				"C:/Users/Administrator/Desktop/NGH/SBS_Unreal/Unreal_Month1_SBS/Project4/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/Administrator/Desktop/NGH/SBS_Unreal/Unreal_Month1_SBS/Project4/Content/0MyFiles/Blueprints/BP_MyGameMode.uasset",
+				"C:/Users/Administrator/Desktop/NGH/SBS_Unreal/Unreal_Month1_SBS/Project4/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/Administrator/Desktop/NGH/SBS_Unreal/Unreal_Month1_SBS/Project4/Content/0MyFiles/Animations/BS_Run.uasset",
+				"C:/Users/Administrator/Desktop/NGH/SBS_Unreal/Unreal_Month1_SBS/Project4/Content/0MyFiles/Animations/ABP_Player.uasset",
+				"C:/Users/Administrator/Desktop/NGH/SBS_Unreal/Unreal_Month1_SBS/Project4/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"C:/Users/Administrator/Desktop/NGH/SBS_Unreal/Unreal_Month1_SBS/Project4/Content/0MyFiles/UI/target.uasset",
+				"C:/Users/Administrator/Desktop/NGH/SBS_Unreal/Unreal_Month1_SBS/Project4/Content/0MyFiles/UI/WBP_CrossHair.uasset",
+				"C:/Users/Administrator/Desktop/NGH/SBS_Unreal/Unreal_Month1_SBS/Project4/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"C:/Users/Administrator/Desktop/NGH/SBS_Unreal/Unreal_Month1_SBS/Project4/Content/ParagonGreystone/Characters/Heroes/Greystone/GreystonePlayerCharacter.uasset"
+			]
+		}
+	]
+}
