@@ -5,10 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Administrator/Desktop/NGH/SBS_Unreal/Unreal_Month1_SBS/Project4/Content/00MyFiles/Blueprints/BP_Player.uasset",
-				"C:/Users/Administrator/Desktop/NGH/SBS_Unreal/Unreal_Month1_SBS/Project4/Content/00MyFiles/Blueprints/BP_Arrow.uasset",
-				"C:/Users/Administrator/Desktop/NGH/SBS_Unreal/Unreal_Month1_SBS/Project4/Content/00MyFiles/Animations/CR_Player.uasset",
-				"C:/Users/Administrator/Desktop/NGH/SBS_Unreal/Unreal_Month1_SBS/Project4/Content/00MyFiles/Animations/ABP_Player.uasset",
 				"E:/GameDeveloper/Unreal Projects/Unreal_Month1_SBS/Project4/Content/00MyFiles/Blueprints/BP_Player.uasset",
 				"E:/GameDeveloper/Unreal Projects/Unreal_Month1_SBS/Project4/Content/00MyFiles/Blueprints/BP_GameMode.uasset",
 				"E:/GameDeveloper/Unreal Projects/Unreal_Month1_SBS/Project4/Content/00MyFiles/Animations/ABP_Player.uasset",
@@ -20,7 +16,6 @@
 				"E:/GameDeveloper/Unreal Projects/Unreal_Month1_SBS/Project4/Content/00MyFiles/Blueprints/BP_Arrow.uasset",
 				"E:/GameDeveloper/Unreal Projects/Unreal_Month1_SBS/Project4/Content/ParagonSparrow/Characters/Heroes/Sparrow/Meshes/Sparrow_Skeleton.uasset",
 				"E:/GameDeveloper/Unreal Projects/Unreal_Month1_SBS/Project4/Content/00MyFiles/UI/CorssHair.uasset",
-				"E:/GameDeveloper/Unreal Projects/Unreal_Month1_SBS/Project4/Content/00MyFiles/UI/target.uasset",
 				"E:/GameDeveloper/Unreal Projects/Unreal_Month1_SBS/Project4/Content/00MyFiles/UI/WBP_CrossHair.uasset",
 				"E:/GameDeveloper/Unreal Projects/Unreal_Month1_SBS/Project4/Content/ParagonSparrow/Characters/Heroes/Sparrow/Animations/Primary_Fire_Med_Montage.uasset",
 				"E:/GameDeveloper/Unreal Projects/Unreal_Month1_SBS/Project4/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FG/C9C8NKPQ680JETAE5ROTT1.uasset",
@@ -51,7 +46,13 @@
 				"E:/GameDeveloper/Unreal Projects/Unreal_Month1_SBS/Project4/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/YT/CQR16QFDKKEYP53M51TV4F.uasset",
 				"E:/GameDeveloper/Unreal Projects/Unreal_Month1_SBS/Project4/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q.uasset",
 				"E:/GameDeveloper/Unreal Projects/Unreal_Month1_SBS/Project4/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR.uasset",
-				"E:/GameDeveloper/Unreal Projects/Unreal_Month1_SBS/Project4/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset"
+				"E:/GameDeveloper/Unreal Projects/Unreal_Month1_SBS/Project4/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
+				"E:/GameDeveloper/Unreal Projects/Unreal_Month1_SBS/Project4/Content/00MyFiles/Animations/CR_Player.uasset",
+				"C:/Users/Administrator/Desktop/NGH/SBS_Unreal/Unreal_Month1_SBS/Project4/Content/00MyFiles/Blueprints/BP_Player.uasset",
+				"C:/Users/Administrator/Desktop/NGH/SBS_Unreal/Unreal_Month1_SBS/Project4/Content/00MyFiles/Blueprints/BP_Arrow.uasset",
+				"C:/Users/Administrator/Desktop/NGH/SBS_Unreal/Unreal_Month1_SBS/Project4/Content/00MyFiles/Animations/CR_Player.uasset",
+				"C:/Users/Administrator/Desktop/NGH/SBS_Unreal/Unreal_Month1_SBS/Project4/Content/00MyFiles/Animations/ABP_Player.uasset",
+				"E:/GameDeveloper/Unreal Projects/Unreal_Month1_SBS/Project4/Content/00MyFiles/UI/target.uasset"
 			]
 		}
 	]
