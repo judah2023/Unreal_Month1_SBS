@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Administrator/Desktop/NGH/SBS_Unreal/Unreal_Month1_SBS/Project4/Content/00MyFiles/Blueprints/BP_Player.uasset",
+				"C:/Users/Administrator/Desktop/NGH/SBS_Unreal/Unreal_Month1_SBS/Project4/Content/00MyFiles/Blueprints/BP_Arrow.uasset",
+				"C:/Users/Administrator/Desktop/NGH/SBS_Unreal/Unreal_Month1_SBS/Project4/Content/00MyFiles/Animations/CR_Player.uasset",
+				"C:/Users/Administrator/Desktop/NGH/SBS_Unreal/Unreal_Month1_SBS/Project4/Content/00MyFiles/Animations/ABP_Player.uasset",
 				"E:/GameDeveloper/Unreal Projects/Unreal_Month1_SBS/Project4/Content/00MyFiles/Blueprints/BP_Player.uasset",
 				"E:/GameDeveloper/Unreal Projects/Unreal_Month1_SBS/Project4/Content/00MyFiles/Blueprints/BP_GameMode.uasset",
 				"E:/GameDeveloper/Unreal Projects/Unreal_Month1_SBS/Project4/Content/00MyFiles/Animations/ABP_Player.uasset",
