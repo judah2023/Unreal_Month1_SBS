@@ -5,6 +5,21 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Administrator/Desktop/NGH/SBS_Unreal/Unreal_Month1_SBS/Project4/Content/00MyFiles/Blueprints/BP_Player.uasset",
+				"C:/Users/Administrator/Desktop/NGH/SBS_Unreal/Unreal_Month1_SBS/Project4/Content/00MyFiles/Blueprints/BP_Arrow.uasset",
+				"C:/Users/Administrator/Desktop/NGH/SBS_Unreal/Unreal_Month1_SBS/Project4/Content/00MyFiles/Animations/CR_Player.uasset",
+				"C:/Users/Administrator/Desktop/NGH/SBS_Unreal/Unreal_Month1_SBS/Project4/Content/00MyFiles/Animations/ABP_Player.uasset",
+				"C:/Users/Administrator/Desktop/NGH/SBS_Unreal/Unreal_Month1_SBS/Project4/Content/00MyFiles/Animations/Player/ABP_Player.uasset",
+				"C:/Users/Administrator/Desktop/NGH/SBS_Unreal/Unreal_Month1_SBS/Project4/Content/00MyFiles/Animations/Player/AO_AimIdle.uasset",
+				"C:/Users/Administrator/Desktop/NGH/SBS_Unreal/Unreal_Month1_SBS/Project4/Content/00MyFiles/Animations/Player/BS_Run.uasset",
+				"C:/Users/Administrator/Desktop/NGH/SBS_Unreal/Unreal_Month1_SBS/Project4/Content/00MyFiles/Animations/Player/CR_Player.uasset",
+				"C:/Users/Administrator/Desktop/NGH/SBS_Unreal/Unreal_Month1_SBS/Project4/Content/00MyFiles/Animations/Player/Turn_Left.uasset",
+				"C:/Users/Administrator/Desktop/NGH/SBS_Unreal/Unreal_Month1_SBS/Project4/Content/00MyFiles/Animations/Player/Turn_Right.uasset",
+				"C:/Users/Administrator/Desktop/NGH/SBS_Unreal/Unreal_Month1_SBS/Project4/Content/00MyFiles/Animations/Turn_Right.uasset",
+				"C:/Users/Administrator/Desktop/NGH/SBS_Unreal/Unreal_Month1_SBS/Project4/Content/00MyFiles/Animations/Turn_Left.uasset",
+				"C:/Users/Administrator/Desktop/NGH/SBS_Unreal/Unreal_Month1_SBS/Project4/Content/00MyFiles/Animations/BS_Run.uasset",
+				"C:/Users/Administrator/Desktop/NGH/SBS_Unreal/Unreal_Month1_SBS/Project4/Content/00MyFiles/Animations/AO_AimIdle.uasset",
+				"C:/Users/Administrator/Desktop/NGH/SBS_Unreal/Unreal_Month1_SBS/Project4/Content/00MyFiles/Blueprints/BP_Enemy.uasset",
 				"E:/GameDeveloper/Unreal Projects/Unreal_Month1_SBS/Project4/Content/00MyFiles/Blueprints/BP_Player.uasset",
 				"E:/GameDeveloper/Unreal Projects/Unreal_Month1_SBS/Project4/Content/00MyFiles/Blueprints/BP_GameMode.uasset",
 				"E:/GameDeveloper/Unreal Projects/Unreal_Month1_SBS/Project4/Content/00MyFiles/Animations/ABP_Player.uasset",
@@ -48,10 +63,6 @@
 				"E:/GameDeveloper/Unreal Projects/Unreal_Month1_SBS/Project4/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR.uasset",
 				"E:/GameDeveloper/Unreal Projects/Unreal_Month1_SBS/Project4/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
 				"E:/GameDeveloper/Unreal Projects/Unreal_Month1_SBS/Project4/Content/00MyFiles/Animations/CR_Player.uasset",
-				"C:/Users/Administrator/Desktop/NGH/SBS_Unreal/Unreal_Month1_SBS/Project4/Content/00MyFiles/Blueprints/BP_Player.uasset",
-				"C:/Users/Administrator/Desktop/NGH/SBS_Unreal/Unreal_Month1_SBS/Project4/Content/00MyFiles/Blueprints/BP_Arrow.uasset",
-				"C:/Users/Administrator/Desktop/NGH/SBS_Unreal/Unreal_Month1_SBS/Project4/Content/00MyFiles/Animations/CR_Player.uasset",
-				"C:/Users/Administrator/Desktop/NGH/SBS_Unreal/Unreal_Month1_SBS/Project4/Content/00MyFiles/Animations/ABP_Player.uasset",
 				"E:/GameDeveloper/Unreal Projects/Unreal_Month1_SBS/Project4/Content/00MyFiles/UI/target.uasset"
 			]
 		}
