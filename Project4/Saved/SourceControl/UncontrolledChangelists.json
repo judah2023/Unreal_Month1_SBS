@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Administrator/Desktop/NGH/Unreal_Month1_SBS/Project4/Content/00MyFiles/Blueprints/BP_Arrow.uasset",
+				"C:/Users/Administrator/Desktop/NGH/Unreal_Month1_SBS/Project4/Content/00MyFiles/Blueprints/BP_Enemy.uasset",
+				"C:/Users/Administrator/Desktop/NGH/Unreal_Month1_SBS/Project4/Content/00MyFiles/Blueprints/BP_Player.uasset",
+				"C:/Users/Administrator/Desktop/NGH/Unreal_Month1_SBS/Project4/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/TE/82EWVI9SWZE2LUR541ALQB.uasset",
+				"C:/Users/Administrator/Desktop/NGH/Unreal_Month1_SBS/Project4/Content/00MyFiles/AI/BTService_SearchTarget.uasset",
 				"C:/Users/Administrator/Desktop/NGH/SBS_Unreal/Unreal_Month1_SBS/Project4/Content/00MyFiles/Blueprints/BP_Player.uasset",
 				"C:/Users/Administrator/Desktop/NGH/SBS_Unreal/Unreal_Month1_SBS/Project4/Content/00MyFiles/Blueprints/BP_Arrow.uasset",
 				"C:/Users/Administrator/Desktop/NGH/SBS_Unreal/Unreal_Month1_SBS/Project4/Content/00MyFiles/Animations/Player/ABP_Player.uasset",
